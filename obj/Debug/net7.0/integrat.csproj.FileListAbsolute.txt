@@ -1,0 +1,41 @@
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\integrat.exe
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\integrat.deps.json
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\integrat.runtimeconfig.json
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\integrat.dll
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\integrat.pdb
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yacin\Downloads\integrat\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.csproj.AssemblyReference.cache
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.AssemblyInfoInputs.cache
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.AssemblyInfo.cs
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.csproj.CoreCompileInputs.cache
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.csproj.CopyComplete
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.dll
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\refint\integrat.dll
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.pdb
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\integrat.genruntimeconfig.cache
+C:\Users\yacin\Downloads\integrat\obj\Debug\net7.0\ref\integrat.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\integrat.exe
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\integrat.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.csproj.AssemblyReference.cache
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.AssemblyInfoInputs.cache
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.AssemblyInfo.cs
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.csproj.CoreCompileInputs.cache
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.csproj.CopyComplete
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\refint\integrat.dll
+C:\Users\yacin\OneDrive\Bureau\EPSI 2023-2024\INTEGRATION DE DONNEES\integrat\obj\Debug\net7.0\integrat.pdb
